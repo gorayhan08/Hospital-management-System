@@ -1,9 +1,15 @@
 Project for 2nd Year 2nd Semester Final Examination
+
 Course Name: Software Development (Part - 01)
+
 Course Code: CSE2206
+
 Project on: Hospital Management System
+
 Language: C++
+
 Group: 08
+
 Team Members: A. K. M. Golam Rayhan (ID-1705028)
              Jebunnaher Jitu (ID-1705019)
              Antara Mubassira Shawon (ID-1705020)
